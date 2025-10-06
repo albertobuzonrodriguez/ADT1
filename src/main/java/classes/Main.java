@@ -6,10 +6,10 @@ public class Main {
 		// World.mostrarPaises('A');
 		// World.mostrarDatos();
 		//PerroMetodos.crearTablaPerros();
-		//PerroMetodos.insertarPerro(1, "Pitbull", 124, 3, "verde");
+		PerroMetodos.insertarPerro(12, "Pitbull", 124, 3, "verde");
 		//PerroMetodos.insertarPerroRS("Bulldog", 94, 4, "burdeos");
 		//Perro perrito = new Perro(4, "Goyo", 68, 5, "negro");
 		//PerroMetodos.insertarPerroObjeto(perrito);
-		System.out.println(PerroMetodos.getPerroDB(1));
+		//PerroMetodos.getPerroDB(1);
 	}
 }

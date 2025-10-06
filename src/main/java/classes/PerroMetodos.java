@@ -3,8 +3,6 @@ package classes;
 import java.sql.*;
 
 public class PerroMetodos {
-	
-	
 
 	public static void crearTablaPerros(){
         try {
