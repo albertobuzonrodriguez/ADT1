@@ -97,6 +97,6 @@ public class Alumnos {
     public static void main(String[] args) throws SQLException {
         //crearTablaAlumnos();
         //insertarAlumnos("Antoñito González", 6, "Lengua");
-        actualizarNotaAsignatura();
+        //actualizarNotaAsignatura();
     }
 }
